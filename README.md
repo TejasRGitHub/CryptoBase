@@ -164,19 +164,19 @@ All the unit test are made with a replica of "cryptoBaseDB.db" database called "
 
 ## ERD Diagram
 
-<img  src="ERD_Diag.jpg" >
+<img  src="resources/ERD_Diag.jpg" >
 
 ## API's Used
 
 ### 1. Mediastack
 
-  <img src="mediastack.png" height="330px" width="1000px">
+  <img src="resources/mediastack.png" height="330px" width="1000px">
   
   This API is used to fetch the news for the various crypto currencies based on the given keywords to be displayed to the users. This API provides 500 free requests on the free plan.
   
 ### 2. Coingecko
 
-  <img src="coingecko.png" height="270px" width="900px">
+  <img src="resources/coingecko.png" height="270px" width="900px">
 
 This API is used to fetch the historical market data of crypto currencies which is later used to plot their chart. It is a free to use API with no limit on the number of requests.
 
