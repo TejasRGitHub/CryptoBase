@@ -1,9 +1,5 @@
 # CryptoBase
 
-###### IN CASE OF ANY ERRORS WHILE STARTING THE PROJECT PLEASE FEEL FREE TO CONTACT US AT
-
-trajop2@uic.edu, awagad2@uic.edu , obusar2@uic.edu
-
 ## Team
 
 Akshat Wagadre, Olatunji Busari, Tejas Rajopadhye
@@ -17,29 +13,17 @@ Just like on any social media platform, on which the validity of the news is unf
 ### Webapp - https://cryptobasefrontend.herokuapp.com/
 
 
-## Roles in Project 
-
-### Akshat Wagadre 
-Role - Worked on the complete frontend design of the website in ReactJS. 
-
-### Olatungi Busari
-Role - Created the database schemas and added data manupulation models for CRUD and other operations related to database
-
-### Tejas Rajopadhye
-Role - Implemented Backend design in MVC and added security features along with validations needed
-
-
 ## Starting the Backend Server
 
 Please add a .env file and copy and paste the below configuration in "Backend" folder
 
 ```
-port=1337
-cookieMaxAge=3600000
-minPasswordLength=8
-maxPasswordLength=100
-secret="8812nkj12891nkfjhsdfk23"
-dbName="cryptoBaseDB"
+port=
+cookieMaxAge=
+minPasswordLength=
+maxPasswordLength=
+secret=
+dbName=
 sessionsDb=sessions
 
 ```
